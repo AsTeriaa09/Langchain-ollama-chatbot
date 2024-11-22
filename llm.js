@@ -6,7 +6,7 @@ const model = new ChatOllama({
     temperature: 0.7,
     maxTokens:1000,
     verbose:true,
-  });
+});
 
 const response = await model.invoke("hello");
 
