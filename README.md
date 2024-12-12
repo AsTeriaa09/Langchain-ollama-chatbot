@@ -18,6 +18,32 @@ Welcome to **LangChain Ollama Chatbot**! This project demonstrates the advanced 
 - **Retrieval Chains**: Advanced retrieval techniques for optimized performance.
 - **Conversation Retrieval Chains**: Maintain conversation history for contextual dialogue.
 
+
+
+<div align="center">
+
+## 🧠 Key Concepts
+
+</div>
+
+### 1. **Prompt Templates**
+Craft precise prompts to guide the model in generating accurate and context-aware responses.
+
+### 2. **Output Parsers**
+Ensure structured and predictable output using robust parsing techniques.
+
+### 3. **Retrieval Chains**
+Enable retrieval-augmented generation for better accuracy and scalability.
+
+### 4. **Conversation Retrieval Chains**
+Maintain dialogue coherence by incorporating conversation history into responses.
+
+### 5. **Vector Embeddings**
+Power semantic search and context retrieval using vectorized data representations.
+
+  
+
+
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -32,8 +58,6 @@ Welcome to **LangChain Ollama Chatbot**! This project demonstrates the advanced 
 - **Cheerio**: Scraping and parsing HTML content.
 - **dotenv**: Securely manage environment variables.
 - **Zod**: Schema validation for structured data.
-
-
 
 
 <div align="center">
@@ -68,36 +92,10 @@ Ensure you have the following installed on your system:
    API_KEY=<your-api-key>
    ```
 
-<div align="center">
-
-## 🧠 Key Concepts
-
-</div>
-
-### 1. **Prompt Templates**
-Craft precise prompts to guide the model in generating accurate and context-aware responses.
-
-### 2. **Output Parsers**
-Ensure structured and predictable output using robust parsing techniques.
-
-### 3. **Retrieval Chains**
-Enable retrieval-augmented generation for better accuracy and scalability.
-
-### 4. **Conversation Retrieval Chains**
-Maintain dialogue coherence by incorporating conversation history into responses.
-
-### 5. **Vector Embeddings**
-Power semantic search and context retrieval using vectorized data representations.
 
 
 
 
 
 
-## 📞 Contact
 
-</div>
-
-For questions or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
