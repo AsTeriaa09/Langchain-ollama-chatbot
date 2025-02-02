@@ -74,7 +74,7 @@ Ensure you have the following installed on your system:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/langchain-ollama-chatbot.git
+   git clone https://github.com/AsTeriaa09/langchain-ollama-chatbot.git
    ```
 
 2. Navigate to the project directory:
@@ -87,10 +87,7 @@ Ensure you have the following installed on your system:
    npm install
    ```
 
-4. Set up your `.env` file with required configurations:
-   ```plaintext
-   API_KEY=<your-api-key>
-   ```
+
 
 
 
